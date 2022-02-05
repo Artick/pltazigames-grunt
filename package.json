@@ -1,0 +1,15 @@
+{
+  "name": "platzi-games-grunt",
+  "version": "1.0.0",
+  "description": "a project with grunt, experimental template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-contrib-pug": "^3.0.0"
+  }
+}
